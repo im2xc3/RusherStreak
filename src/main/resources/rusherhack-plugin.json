@@ -1,0 +1,16 @@
+{
+  "Plugin-Class": "org.rusherstreak.rusherstreak",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Unofficial port of trouser streak for rusher hack.",
+  "URL": "https://github.com/im2xc3/rusher-streak",
+  "Authors": [
+    "im2xc3"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ],
+  "Mixin-Configs": [
+    "mixins.rusherstreak.json"
+  ]
+}
